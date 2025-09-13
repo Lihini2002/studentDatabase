@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # Student Management System (Console Version)
 
 A simple **Java console-based application** for managing student records using `Scanner` for input and a `StudentDAO` class for database operations. The program allows users to **add, view, update, and delete student information**.
